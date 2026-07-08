@@ -79,4 +79,4 @@ npm run android
 ## Credenziali Demo per il Test
 
 - **Username**: `emilys`
-- **Password**: `emilyspassword`
+- **Password**: `emilyspass`
